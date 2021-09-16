@@ -1,3 +1,5 @@
+document.body.style.backgroundImage = "linear-gradient(#4ca1af, #c4e0e5)";
+
 var elFormName = document.querySelector(".form-exam");
 
 var yiqildi = 50;
