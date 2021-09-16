@@ -1,0 +1,39 @@
+.form-exam {
+  background-color: rgba(52, 55, 56, 0.6);
+  padding-top: 20px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+  padding-right: 30px;
+  text-align: center;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+  box-shadow:
+  inset 0 0 50px #fff,      /* inner white */
+  inset 20px 0 80px #3ae1ec,   /* inner left magenta short */
+  inset -20px 0 80px #1d8dc9,  /* inner right cyan short */
+  inset 20px 0 300px #3ae1ec,  /* inner left magenta broad */
+  inset -20px 0 300px #1d8dc9, /* inner right cyan broad */
+  0 0 50px #fff,            /* outer white */
+  -10px 0 80px #3ae1ec,        /* outer left magenta */
+  10px 0 80px #1d8dc9;         /* outer right cyan */
+
+}
+
+.input-style {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+
+.examResultOutput {
+  width: 800px;
+  margin-left: calc(50% - 400px);
+  color: #fff;
+  background-color: rgba(52, 55, 56, 0.3);
+  margin-top: 30px;
+  padding: 25px 90px;
+  border-radius: 30px;
+  font-size: 32px;
+}
